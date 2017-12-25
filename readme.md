@@ -3,5 +3,6 @@ Privates Projekt von mir, leider nie beendet. Inzwischen ist auch die DB weg, m√
 an sich einmal ein Lizenzmanagement werden, Leider nie beendet :( 
 
 #Installation
+
 Im ROOT-Verzeichnis `composer install` ausf√ºhren. Damit werden die Dependencies installiert, leider aber habe ich die 
 Migrationsdateien nicht mehr, die Datenbank muss daher rekonstruiert werden.
