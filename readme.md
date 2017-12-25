@@ -1,6 +1,7 @@
 # Info
 Privates Projekt von mir, leider nie beendet. Inzwischen ist auch die DB weg, müsste rekonstruiert werden. Es sollte
-an sich einmal ein Lizenzmanagement werden, Leider nie beendet :( 
+an sich einmal ein Lizenzmanagement werden, Leider nie beendet.
+
 
 #Installation
 
